@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a Roman Catholick to one of his friends at Amsterdam written in French from Paris, Feb. 6, 1688/9 ; shewing how the French stand affected upon the revolution of affairs in England, since His present Majesties arrival there.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48033</idno><idno type="EEBO-CITATION">15618186</idno>
+  <idno type="VID">104171</idno>
+  <idno type="EEBO-PROQUEST">2240949399</idno>
+  
+            <idno type="STC">Wing L1434</idno>
+            <idno type="STC">ESTC R36200</idno>
+            <idno type="OCLC">15618186</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a Roman Catholick to one of his friends at Amsterdam written in French from Paris, Feb. 6, 1688/9 ; shewing how the French stand affected upon the revolution of affairs in England, since His present Majesties arrival there.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed April 26, 1689. J. Fraser."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702.</term>
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:104171:1"/>
+            <head>A LETTER From a ROMAN CATHOLICK to one of his Friends at <hi>AMSTERDAM.</hi>
+            </head>
+            <head type="sub">Written in <hi>French</hi> from <hi>Paris, Feb.</hi> 6. 1688/9 Shewing how the <hi>French</hi> stand affected upon the Revolution of Affairs in <hi>England,</hi> since His present <hi>MAJESTIES</hi> arrival there.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE have been here in a most dreadful Con<g ref="char:EOLhyphen"/>sternation ever since the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi>'s being in <hi>England:</hi> We were then afraid of every thing from a Prince, of whom, before we had no reason to be mistrustful; not but that we were really perswaded, that he is the true Inheri<g ref="char:EOLhyphen"/>tor of the Valour and Courage of his Illustrious Ancestors, but because we had flattered our selves, that it was im<g ref="char:EOLhyphen"/>possible for him to reconcile to his Interests, a Republick, which till now, had always labour'd to depress his Power, and which for the most part, never takes Arms but to defend it self. This Resolution, which has been manag'd with so much secresie, has very much affrighted the Court; and the sole Preparations of the <hi>Holland</hi> Fleet were as so many Thunder-bolts falling upon it, and which terrify'd it to that degree, that truly we must par<g ref="char:EOLhyphen"/>don <hi>France</hi> the fault which she committed in falling fowl upon the Emperour, and harrasing one of the most lovely Territories of the Empire. For we now plainly see, that if instead of going to Besiege <hi>Philipsburgh,</hi> and Ransacking the <hi>Palatinate,</hi> we had sent an Army towards the <hi>Low Countries,</hi> and only made a shew of Besieging <hi>Mastricht,</hi> we had diverted the fatal Blow. For in short, I can never imagin, that my Lords, the States of <hi>Holland,</hi> who are so Prudent, would ever have ran the Risco of having their own Countrey ravag'd by a Foreign Force, to succour a People who were not altogether as yet op<g ref="char:EOLhyphen"/>press'd.</p>
+            <p>But the <hi>Genius</hi> which governs the Affairs of <hi>France,</hi> quite abandon'd it at this Conjuncture: Nor do I know what the Reverend Confessour had in his Thoughts, to give our Monarch a piece of Counsel so opposite to our own Interests. Let us speak our own Sentiments, Sir, which are, That this Reverend Father is not so politick a person, as he was believ'd to be. This is not the first mistake which he has caused a Prince to commit, who confides in his Conduct; so that they begin to tell us, That his Majesty is not at all satisfy'd in him; but that from henceforth he will take the Advice of his Mini<g ref="char:EOLhyphen"/>sters, and put his Conscience into the Hands of some ho<g ref="char:EOLhyphen"/>nest <hi>Capuchin,</hi> or of some Father of the <hi>Oratory;</hi> but to to tell you truth, I believe nothing of it. The King, notwithstanding all his greatness, is very timorous; he knows that the Society is a dangerous Enemy: he has before his Eyes the Example of <hi>Henry the Great:</hi> And to speak all in a word, he is so much a Slave to the <hi>Jesuits,</hi> that <hi>Lewis the Just,</hi> was never so much in Bondage to Cardinal <hi>Richlieu.</hi>
+            </p>
+            <p>Were this Prince so undaunted, as the World would make us believe, or as his Flatterers publish him to be, he would not stick to hazar'd a Life which he cannot ex<g ref="char:EOLhyphen"/>pect long to preserve (for all the World is convinc'd, that he labours under an incurable Distemper, which will snatch him from his People, when he least thinks of it) He would give himself up to that Providence which is the <hi>Guardian Angel</hi> of Kings; and would restore his Sub<g ref="char:EOLhyphen"/>jects to that Peace which he has ravish'd from them, and he would in his own Kingdom, deal by the <hi>Society,</hi> as formerly his Ancestours did by the <hi>Knights Templers.</hi> As much an Enemy as I am of the <hi>Jansenists,</hi> I could never love the <hi>Jesuits,</hi> nor reconcile my self to their Maxims; I have always look'd upon their Order as the Scourge of Christianity, and as an <hi>Ambitious Society,</hi> which cove<g ref="char:EOLhyphen"/>ring it self with the Sacred Vail of Religion, would do<g ref="char:EOLhyphen"/>mineer over all the Earth, and Sacrifice all the World to their eager Thrist of Rule.</p>
+            <p>You must acknowledge, Sir, that the Catholick Prin<g ref="char:EOLhyphen"/>ces are infatuated, not to see that it is upon the ruin of their Kingdoms that these People endeavour to establish their Dominion; and that tho' their Counsels were sin<g ref="char:EOLhyphen"/>cere and real, as they are believ'd to be, which are given by the Reverend Father Confessours, yet they have been always fatal to them. Have we not seen to what a condi<g ref="char:EOLhyphen"/>tion the Emperor was reduced for having listened to their Counsels; even upon the brink of being despoyl'd of all his Dominions by the Infidels? What is now the Con<g ref="char:EOLhyphen"/>dition of the King of <hi>England,</hi> for having advanc'd Fa<g ref="char:EOLhyphen"/>ther <hi>Peter</hi>'s into the number of his first Ministers of State. The most unfortunate, and one that has the most reason to complain of all the Princes living, for having followed their pernicious Counsels.</p>
+            <p>But not to search any farther, do we not see in our own Kingdom, what is now the fate of our <hi>Great Prince,</hi> for having suffered himself to be enchanted by his Con<g ref="char:EOLhyphen"/>fessours. A while ago, <hi>Lewis</hi> XIV. made <hi>Europe</hi> trem<g ref="char:EOLhyphen"/>ble, nor can we say, but that he reign'd as much in For<g ref="char:EOLhyphen"/>reign Kingdoms as in his own. He gave Laws to all the Potentates; he made War and Peace; and he had no more to do then only threaten, to make the greatest Princes bend to his Will and Pleasure. But now, <hi>Lewis</hi> XIV. trembles in his turn, he begins to submit himself to the <hi>Holy Father,</hi> he begs Peace of the Emperour, he grants all things to <hi>Geneva;</hi> he flatters his most cruel Enemies; he dares not burn nor plague the <hi>Hollanders</hi> with his Bombs: he repents of his having taken part with the Cardinal of <hi>Furstenbergh,</hi> and he restores the Parliaments, in all those places from whence he had expell'd them, to their rights; swears never to disturb them again; he causes every day, several strong Forts, and considerable strong places to be demolished; he knows not which way to turn him. The very Name of the Prince of <hi>Orange</hi> puts him into such an Agony, that we are forbid under terrible Penalties, so much as to mention him upon any occasion or pretence whatever. No more do we behold
+<pb facs="tcp:104171:2"/>that gay and jocund Air in his Countenance, his cloudy and melancholy looks betray a kind of Astonish<g ref="char:EOLhyphen"/>ment; he shews himself but rarely in publick; in short, he is so taken up with the thoughts of those fatal Consequen<g ref="char:EOLhyphen"/>ces which he foresees, or which his chief Ministers lay before his Eyes, that even to Madam <hi>de Maintenon,</hi> eve<g ref="char:EOLhyphen"/>ry body complains that he is become unsociable. And to tell you the truth, he has cause enough for it: He sees all the World in League against him; that the D. of <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> and the Cardinal of <hi>Furstenbergh,</hi> who are his only two Allies, are not in a condition to succour him; and that if the <hi>Germans</hi> attack him on the side of the <hi>Rhine,</hi> and the <hi>English</hi> land either upon the Coast of <hi>Britaign</hi> or <hi>Normandy,</hi> he must retire to <hi>Versailles,</hi> there to repent of the Cruelties which his Dragoons have committed in the <hi>Palatinate,</hi> and the Acts of Hostilities which he has exercised in <hi>Orange.</hi>
+            </p>
+            <p>Our new Converts, which are always <hi>Hugonets</hi> in their Hearts, begin to take breath, tho' they do not seem to shew it publickly. Their Minister, <hi>Jurieu,</hi> whom they look upon as a great Prophet, has assur'd them of a De<g ref="char:EOLhyphen"/>liverance at this time; of which they have very fair pro<g ref="char:EOLhyphen"/>spects: And I cannot well tell, whether the great ones, who have a Dispensation to read all Books, and who have read this Book of Prophesies, are not a little alarm'd to see the stream of Affairs run in such a manner, as that same <hi>Minister</hi> seems to have foretold; or rather, as one <hi>Du Moulin</hi> foretold before him. But this I know, that it has been propounded twice or thrice, Whether it would not be good Policy, to resettle those miserable Creatures, since it could never be laid to their charge, that they were <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her then Loyal Subjects. But, believe me, tho' the King should descend to such a piece of Remisness, it would do him but little good. For I am perswaded the same thing would happen in <hi>France</hi> which has fallen out in <hi>England:</hi> The <hi>Hugonots</hi> will never any more confide in our Promises. For in short, I must speak it to the shame of our Catholick Religion, that they have too often experienc'd, that one of our Maxims, most religiously ob<g ref="char:EOLhyphen"/>serv'd, is, <hi>not to keep any Faith with Hereticks.</hi>
+            </p>
+            <p>After all, tho' the King should act with Sincerity; tho' he should re-establish the Edict of <hi>Nants;</hi> tho' he should resettle all the Ministers, and all that vast num<g ref="char:EOLhyphen"/>ber of <hi>Hugonots,</hi> who are gone to people and enrich For<g ref="char:EOLhyphen"/>reign Countries, Affairs would not go much better. The half of the Catholicks are discontented: Our People are reduc'd to the utmost degree of Miserie: The Parlia<g ref="char:EOLhyphen"/>ments are only Apparitions of what they were Origi<g ref="char:EOLhyphen"/>nally; the Princes of the Blood are nothing at all; the Officers destroy themselves in the Army; the Cler<g ref="char:EOLhyphen"/>gy are blooded from time to time: And to speak things as they are, we are no more then perfect Slaves. If the Prince of <hi>Orange</hi> should but appear with his Allies, at the Head of a hundred thousand Men, and put upon his Standards, <hi>FOR LIBERTY,</hi> as they say he has a design to do, and publish his Intentions of Liberty in a <hi>Manifesto,</hi> I tremble to think what would become of us. The <hi>Calvinists</hi> are now of Opinion, that we ought to tole<g ref="char:EOLhyphen"/>rate all Religions that make profession of Christianity. And as we are convinc'd, that they would let us alone to say Mass in quiet, I am apt to believe, that it would go but ill with the King's Affairs and that no body would be so furious for cutting of Throats. I say this also farther, That the Misfortunes of the <hi>Hugonots,</hi> and that Attachment which they have shewn to their Religi<g ref="char:EOLhyphen"/>on, having obliged us to examin their Sentiments, we soon perceiv'd, that those Opinions of theirs were so far remote from that horrid Description, and those villanous Portraictures which our Directors make of them, that we would never suffer what they suffer'd, and what they still endure, were we constrain'd by a greater force to betake us to their Party. Assure your self, Sir, that the Prince of <hi>Orange</hi>'s Dragoons would convert us with less trouble, then those of his <hi>Most Christian Majesty</hi> con<g ref="char:EOLhyphen"/>verted our <hi>Hugonots.</hi> I know none of the Catholicks that would be proof against the quartering of Armed Souldiers, but would freely subscribe rather then suffer Martyrdom.</p>
+            <p>For my own particular part, the Mass and I agree ve<g ref="char:EOLhyphen"/>ry well; I have nothing to do but to go hear it upon <hi>Sundays</hi> and <hi>Holydays;</hi> my Priest demands nothing more of me, I gain Paradise at a cheap rate. However, to speak frankly, I would not suffer Martyrdom for a My<g ref="char:EOLhyphen"/>stery which I do not apprehend. And I know an infi<g ref="char:EOLhyphen"/>nite number of people that speak, very near, the same Language, and who pretend to have Reason also for what they say. They tell us, that if the King did exterminate the <hi>Hugonots</hi> and Heresie out of his Kingdom, he did not do it out of any Principle of Religion; but that Religi<g ref="char:EOLhyphen"/>on was only a pretence to aggrandize himself, and to at<g ref="char:EOLhyphen"/>tain to the Universal Monarchy. And indeed, it has been a great complaint for a long time at the Court of <hi>Vienna,</hi> That the most Christian King had made a strict Alliance with the Enemies of the Christians; and that while he persecuted the <hi>Protestants</hi> in his own Kingdom, he assisted with Men and Money the <hi>Malecontents</hi> of <hi>Hungary,</hi> who are all <hi>Calvinists</hi> or <hi>Lutherans.</hi> They say moreover, That at the time when he let loose his Dragoons upon the <hi>Hereticks,</hi> he quarrell'd so cruelly with the <hi>Holy See,</hi> that all good Christians bewayl'd his proceedings.</p>
+            <p>The Priests of the County of <hi>Avignon</hi> have had the same fate with those in the Principality of <hi>Orange.</hi> And in the midst of the Hostilities which he committed in <hi>Germany;</hi> the Catholicks made loud Complaints, That he made no distinction of the One from the Other, but burnt the <hi>Catholicks</hi> as well as the <hi>Protestants,</hi> and ruin'd both alike by his Contributions; and that their Wives and Daughters were as much expos'd to the Vio<g ref="char:EOLhyphen"/>lences of the Souldiers, as the most obstinate <hi>Hereticks.</hi> This Reflexion makes them believe that the <hi>Most Chri<g ref="char:EOLhyphen"/>stian King,</hi> and the Right Reverend Fathers of the Chair, believe that <hi>Calvin</hi>'s Religion is good enough; but that it was no Crime at all to Sacrifice, and hazard the ruin of it, to ascend the Throne of the <hi>Caesars.</hi> But what<g ref="char:EOLhyphen"/>ever comes on't, I am ready to swim with the Tyde, and to sing <hi>Marott's Psalms</hi> if there be occasion.</p>
+            <p>Send me the News from time to time, and assure your self that I am entirely</p>
+            <closer>
+               <signed>YOƲRS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licensed</p>
+            <closer>
+               <dateline>
+                  <date>April 26. 1689.</date>
+               </dateline>
+               <signed>J. Fraser.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin</hi> near the <hi>Black-Bull</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
